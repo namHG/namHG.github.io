@@ -9,5 +9,5 @@ Github 주소 : https://github.com/namHG
 팀원 : 김택윤(GoodTY), 남현기(namHG), 박종윤(JJongmen), 이준혁(bnbong)
 
 진행했던 프로젝트
-웹툰 업데이트 알람 : https://github.com/namHG/ERICA_WEBTOON-ALARM
+웹툰 업데이트 알람 : https://github.com/namHG/ERICA_WEBTOON-ALARM 
 무한소수 계산기 : https://github.com/namHG/InfCal
