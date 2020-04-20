@@ -5,7 +5,7 @@ Hello! My name is NAM HYEONGI(남현기).
 I am majoring in software.
 
 
-# TEAM
+# TEAM  '김택윤남현기박종윤이준혁'
 
 TAEKYUN_KIM(김택윤)
 
