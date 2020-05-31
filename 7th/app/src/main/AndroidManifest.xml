@@ -39,8 +39,13 @@
         <service
             android:name=".FetchWeatherService"
             android:enabled="true"
-            android:exported="true">
-        </service>
+            android:exported="true"/>
+
+        <provider
+            android:name=".WeatherProvider"
+            android:authorities="com.example.weatherforecast"
+            android:enabled="true"
+            android:exported="true"></provider>
     </application>
 
 </manifest>
